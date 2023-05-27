@@ -14,7 +14,7 @@ st.title("Walking Project")
 
 # Markdown Oluşturma
 st.markdown("Bu projede bize gönderdiğiniz g kuvveti değerleri ile sizin adım sayınızı hesaplayacağız.")
-
+st.markdown("https://r.resimlink.com/va1lCL7TI_.gif)")
 
 
 
